@@ -1,1 +1,1 @@
-# https://VitorMoraes.github.io
+# VitorMoraes.github.io
